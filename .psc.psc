@@ -1,4 +1,5 @@
 Algoritmo P4_1Multiplicar
+	//Eduardo Molino
 	//Dado un entero N entre 1 y 10 (inclusive), la computadora muestra la tabla de multiplicar de N.
 	definir n Como Entero;
 	Escribir "Ingresa un número entre 1 y 10";
